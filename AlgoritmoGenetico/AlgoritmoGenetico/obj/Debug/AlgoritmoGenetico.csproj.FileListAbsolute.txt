@@ -1,0 +1,40 @@
+c:\users\diogo cavalcante\documents\visual studio 2015\Projects\AlgoritmoGenetico\AlgoritmoGenetico\bin\Debug\AlgoritmoGenetico.exe.config
+c:\users\diogo cavalcante\documents\visual studio 2015\Projects\AlgoritmoGenetico\AlgoritmoGenetico\bin\Debug\AlgoritmoGenetico.exe
+c:\users\diogo cavalcante\documents\visual studio 2015\Projects\AlgoritmoGenetico\AlgoritmoGenetico\bin\Debug\AlgoritmoGenetico.pdb
+c:\users\diogo cavalcante\documents\visual studio 2015\Projects\AlgoritmoGenetico\AlgoritmoGenetico\obj\Debug\AlgoritmoGenetico.csprojResolveAssemblyReference.cache
+c:\users\diogo cavalcante\documents\visual studio 2015\Projects\AlgoritmoGenetico\AlgoritmoGenetico\obj\Debug\AlgoritmoGenetico.Form1.resources
+c:\users\diogo cavalcante\documents\visual studio 2015\Projects\AlgoritmoGenetico\AlgoritmoGenetico\obj\Debug\AlgoritmoGenetico.Properties.Resources.resources
+c:\users\diogo cavalcante\documents\visual studio 2015\Projects\AlgoritmoGenetico\AlgoritmoGenetico\obj\Debug\AlgoritmoGenetico.csproj.GenerateResource.Cache
+c:\users\diogo cavalcante\documents\visual studio 2015\Projects\AlgoritmoGenetico\AlgoritmoGenetico\obj\Debug\AlgoritmoGenetico.exe
+c:\users\diogo cavalcante\documents\visual studio 2015\Projects\AlgoritmoGenetico\AlgoritmoGenetico\obj\Debug\AlgoritmoGenetico.pdb
+c:\users\diogo cavalcante\documents\visual studio 2015\Projects\AlgoritmoGenetico\AlgoritmoGenetico\bin\Debug\ZedGraph.dll
+c:\users\diogo cavalcante\documents\visual studio 2015\Projects\AlgoritmoGenetico\AlgoritmoGenetico\obj\Debug\AlgoritmoGenetico.TestCrossover.resources
+c:\users\diogo cavalcante\documents\visual studio 2015\Projects\AlgoritmoGenetico\AlgoritmoGenetico\obj\Debug\AlgoritmoGenetico.TelaPrincipal.resources
+C:\Users\Gerson\9Periodo\Inteligencia Artificial\Curso AG Udemy\Completo-AlgoritmoGenetico\AlgoritmoGenetico\AlgoritmoGenetico\bin\Debug\AlgoritmoGenetico.exe.config
+C:\Users\Gerson\9Periodo\Inteligencia Artificial\Curso AG Udemy\Completo-AlgoritmoGenetico\AlgoritmoGenetico\AlgoritmoGenetico\bin\Debug\AlgoritmoGenetico.exe
+C:\Users\Gerson\9Periodo\Inteligencia Artificial\Curso AG Udemy\Completo-AlgoritmoGenetico\AlgoritmoGenetico\AlgoritmoGenetico\bin\Debug\AlgoritmoGenetico.pdb
+C:\Users\Gerson\9Periodo\Inteligencia Artificial\Curso AG Udemy\Completo-AlgoritmoGenetico\AlgoritmoGenetico\AlgoritmoGenetico\bin\Debug\ZedGraph.dll
+C:\Users\Gerson\9Periodo\Inteligencia Artificial\Curso AG Udemy\Completo-AlgoritmoGenetico\AlgoritmoGenetico\AlgoritmoGenetico\obj\Debug\AlgoritmoGenetico.csprojAssemblyReference.cache
+C:\Users\Gerson\9Periodo\Inteligencia Artificial\Curso AG Udemy\Completo-AlgoritmoGenetico\AlgoritmoGenetico\AlgoritmoGenetico\obj\Debug\AlgoritmoGenetico.Form1.resources
+C:\Users\Gerson\9Periodo\Inteligencia Artificial\Curso AG Udemy\Completo-AlgoritmoGenetico\AlgoritmoGenetico\AlgoritmoGenetico\obj\Debug\AlgoritmoGenetico.Properties.Resources.resources
+C:\Users\Gerson\9Periodo\Inteligencia Artificial\Curso AG Udemy\Completo-AlgoritmoGenetico\AlgoritmoGenetico\AlgoritmoGenetico\obj\Debug\AlgoritmoGenetico.TelaPrincipal.resources
+C:\Users\Gerson\9Periodo\Inteligencia Artificial\Curso AG Udemy\Completo-AlgoritmoGenetico\AlgoritmoGenetico\AlgoritmoGenetico\obj\Debug\AlgoritmoGenetico.TestCrossover.resources
+C:\Users\Gerson\9Periodo\Inteligencia Artificial\Curso AG Udemy\Completo-AlgoritmoGenetico\AlgoritmoGenetico\AlgoritmoGenetico\obj\Debug\AlgoritmoGenetico.csproj.GenerateResource.cache
+C:\Users\Gerson\9Periodo\Inteligencia Artificial\Curso AG Udemy\Completo-AlgoritmoGenetico\AlgoritmoGenetico\AlgoritmoGenetico\obj\Debug\AlgoritmoGenetico.csproj.CoreCompileInputs.cache
+C:\Users\Gerson\9Periodo\Inteligencia Artificial\Curso AG Udemy\Completo-AlgoritmoGenetico\AlgoritmoGenetico\AlgoritmoGenetico\obj\Debug\AlgoritmoGenetico.csproj.CopyComplete
+C:\Users\Gerson\9Periodo\Inteligencia Artificial\Curso AG Udemy\Completo-AlgoritmoGenetico\AlgoritmoGenetico\AlgoritmoGenetico\obj\Debug\AlgoritmoGenetico.exe
+C:\Users\Gerson\9Periodo\Inteligencia Artificial\Curso AG Udemy\Completo-AlgoritmoGenetico\AlgoritmoGenetico\AlgoritmoGenetico\obj\Debug\AlgoritmoGenetico.pdb
+C:\Users\Gerson\Projetos\Curso AG Udemy-20190226T214826Z-001\Curso AG Udemy\Completo-AlgoritmoGenetico\AlgoritmoGenetico\AlgoritmoGenetico\bin\Debug\AlgoritmoGenetico.exe.config
+C:\Users\Gerson\Projetos\Curso AG Udemy-20190226T214826Z-001\Curso AG Udemy\Completo-AlgoritmoGenetico\AlgoritmoGenetico\AlgoritmoGenetico\bin\Debug\AlgoritmoGenetico.exe
+C:\Users\Gerson\Projetos\Curso AG Udemy-20190226T214826Z-001\Curso AG Udemy\Completo-AlgoritmoGenetico\AlgoritmoGenetico\AlgoritmoGenetico\bin\Debug\AlgoritmoGenetico.pdb
+C:\Users\Gerson\Projetos\Curso AG Udemy-20190226T214826Z-001\Curso AG Udemy\Completo-AlgoritmoGenetico\AlgoritmoGenetico\AlgoritmoGenetico\bin\Debug\ZedGraph.dll
+C:\Users\Gerson\Projetos\Curso AG Udemy-20190226T214826Z-001\Curso AG Udemy\Completo-AlgoritmoGenetico\AlgoritmoGenetico\AlgoritmoGenetico\obj\Debug\AlgoritmoGenetico.csprojAssemblyReference.cache
+C:\Users\Gerson\Projetos\Curso AG Udemy-20190226T214826Z-001\Curso AG Udemy\Completo-AlgoritmoGenetico\AlgoritmoGenetico\AlgoritmoGenetico\obj\Debug\AlgoritmoGenetico.Form1.resources
+C:\Users\Gerson\Projetos\Curso AG Udemy-20190226T214826Z-001\Curso AG Udemy\Completo-AlgoritmoGenetico\AlgoritmoGenetico\AlgoritmoGenetico\obj\Debug\AlgoritmoGenetico.Properties.Resources.resources
+C:\Users\Gerson\Projetos\Curso AG Udemy-20190226T214826Z-001\Curso AG Udemy\Completo-AlgoritmoGenetico\AlgoritmoGenetico\AlgoritmoGenetico\obj\Debug\AlgoritmoGenetico.TelaPrincipal.resources
+C:\Users\Gerson\Projetos\Curso AG Udemy-20190226T214826Z-001\Curso AG Udemy\Completo-AlgoritmoGenetico\AlgoritmoGenetico\AlgoritmoGenetico\obj\Debug\AlgoritmoGenetico.TestCrossover.resources
+C:\Users\Gerson\Projetos\Curso AG Udemy-20190226T214826Z-001\Curso AG Udemy\Completo-AlgoritmoGenetico\AlgoritmoGenetico\AlgoritmoGenetico\obj\Debug\AlgoritmoGenetico.csproj.GenerateResource.cache
+C:\Users\Gerson\Projetos\Curso AG Udemy-20190226T214826Z-001\Curso AG Udemy\Completo-AlgoritmoGenetico\AlgoritmoGenetico\AlgoritmoGenetico\obj\Debug\AlgoritmoGenetico.csproj.CoreCompileInputs.cache
+C:\Users\Gerson\Projetos\Curso AG Udemy-20190226T214826Z-001\Curso AG Udemy\Completo-AlgoritmoGenetico\AlgoritmoGenetico\AlgoritmoGenetico\obj\Debug\AlgoritmoGenetico.csproj.CopyComplete
+C:\Users\Gerson\Projetos\Curso AG Udemy-20190226T214826Z-001\Curso AG Udemy\Completo-AlgoritmoGenetico\AlgoritmoGenetico\AlgoritmoGenetico\obj\Debug\AlgoritmoGenetico.exe
+C:\Users\Gerson\Projetos\Curso AG Udemy-20190226T214826Z-001\Curso AG Udemy\Completo-AlgoritmoGenetico\AlgoritmoGenetico\AlgoritmoGenetico\obj\Debug\AlgoritmoGenetico.pdb
